@@ -1,7 +1,7 @@
 # job_placement
 
 # Overview
-This repository contains a comprehensive analysis of a job placement dataset obtained from Kaggle. The dataset provides insights into various factors influencing job placements, such as education, experience, skill set, etc. Additionally, several regression models have been applied to predict job placements based on the available features.
+This repository contains a comprehensive analysis of a job placement dataset obtained from Kaggle. The dataset provides insights into various factors influencing job placements, such as education, experience, gpa, etc. Additionally, several regression models have been applied to predict job placements based on the available features.
 
 # Dataset
 The dataset used in this analysis is sourced from Kaggle and consists of 700 records with 11 features. It includes information such as education level, years of experience, technical skills, and job placement status.
